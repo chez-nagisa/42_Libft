@@ -9,10 +9,10 @@ The objective is to build a personal, reusable library of basic C functions to g
 - Implementing safe and efficient string handling
 
 ## 🧪 How to Use
-
+```bash
 1. Clone the repository
 2. Run `make` to compile `libft.a`
-
+```
 # Libft
 
 Libft は、42のカリキュラムにおける最初の基礎的なプロジェクトであり、C標準ライブラリの主要な関数を自分で再実装することに重点を置いています。  
@@ -24,6 +24,7 @@ Libft は、42のカリキュラムにおける最初の基礎的なプロジェ
 - 安全かつ効率的な文字列処理の実装
 
 ## 🧪 使い方
-
+```bash
 1. このリポジトリをクローンします  
 2. `make` を実行して `libft.a` をコンパイルします
+```
